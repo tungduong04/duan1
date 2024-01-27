@@ -46,9 +46,6 @@
                     </table>
                 </div>
                 <div class="row mb10">
-                    <input type="button" value="Chọn tất cả">
-                    <input type="button" value="Bỏ chọn tất cả">
-                    <input type="button" value="Xóa các mục đã chọn">
                     <a href="index.php?act=addsanpham"><input type="button" value="Nhập thêm"></a>
                 </div>
             </div>

@@ -34,16 +34,13 @@
                                     <td><?php echo $countsp ?></td>
                                     <td><?php echo $b['total'] ?></td>
                                     <td><?php echo $ttdh ?></td>
-                                    <td><a href="index.php?act=suahd&id=<?php echo $b['id'] ?>"><input type='button' value='Sửa'></a>    <a href="index.php?act=xoadh&id=<?php echo $b['id'] ?>"><input type='button' value='Xóa'></a></td>
+                                    <td><a href="index.php?act=suahd&id=<?php echo $b['id'] ?>"><input type='button' value='Sửa'></a> 
                                 </tr>
                             <?php endforeach;?>
                         </tbody>
                     </table>
                 </div>
                 <div class="row mb10">
-                    <input type="button" value="Chọn tất cả">
-                    <input type="button" value="Bỏ chọn tất cả">
-                    <input type="button" value="Xóa các mục đã chọn">
                     <a href="index.php?act=addsanpham"><input type="button" value="Nhập thêm"></a>
                 </div>
             </div>
