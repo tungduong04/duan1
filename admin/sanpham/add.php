@@ -5,10 +5,7 @@
             <div class="row formLH">
                 <form action="index.php?act=addsanpham" method="post" enctype="multipart/form-data">
                     <div class="row mb10">
-                        <label for="">Mã sản phẩm</label> 
-                        <br>
-                        
-                        <input class="tu-dong" type="text" name="masp" id="" placeholder="auto id" disabled>
+
                     </div>
                     <div class="row mb10">
                         <label for="">Danh mục</label> 

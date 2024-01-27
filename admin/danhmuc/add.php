@@ -5,10 +5,7 @@
             <div class="row formLH">
                 <form action="index.php?act=adddanhmuc" method="post">
                     <div class="row mb10">
-                        <label for="">Mã loại</label> 
-                        <br>
-                        
-                        <input class="tu-dong" type="text" name="maloai" id="" placeholder="auto id" disabled>
+                      
                     </div>
                     <br>
                     <div class="row mb10">

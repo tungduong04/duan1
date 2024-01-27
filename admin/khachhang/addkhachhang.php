@@ -5,10 +5,7 @@
             <div class="row formLH">
                 <form action="index.php?act=addtaikhoan" method="post" enctype="multipart/form-data">
                     <div class="row mb10">
-                        <label for="">ID KHÁCH HÀNG</label> 
-                        <br>
-                        
-                        <input class="tu-dong" type="text" name="" id="" placeholder="auto id" disabled>
+                    
                     </div>
                     <br>
                     <div class="row mb10">
